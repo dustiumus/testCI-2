@@ -4,5 +4,12 @@
   },
   "scripts": {
     "test": "jest"
-  }
+  },
+  "name": "ci",
+  "version": "1.0.0",
+  "main": "project.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
